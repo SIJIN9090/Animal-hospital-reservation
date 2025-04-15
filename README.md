@@ -192,73 +192,15 @@ ___
 
 ----------
 
-### 🧩 **Development Environment**
 
-#### 🖥️ **Language**
+| **🧩 Development Environment** |                                           |
+|--------------------------------|-------------------------------------------|
+| **🖥️ Language**                | Java 17, CSS, HTML5, JavaScript           |
+| **🛢️ DBMS**                    | MySQL 8.0                                 |
+| **⚙️ Framework**                | Spring Boot, Spring Security              |
+| **📚 Library**                  | JDBC 6, Lombok, SLF4J, JSON, SMTP, highlight.js, MIME, React |
+| **📡 API**                      | Kakao Maps API, 공공데이터포털 사업자 인증 API |
+| **🧰 Tools**                    | Visual Studio Code (v1.82.2), IntelliJ IDEA, Bootstrap 4, StarUML |
+| **🔧 WAS (Web Application Server)** | Apache Tomcat 9.0.80                      |
+| **🤝 협업 도구**                 | KakaoTalk, Google Sheets & Google Drive, GitHub |
 
--   Java 17
-    
--   CSS / HTML5 / JavaScript
-    
-
-#### 🛢️ **DBMS**
-
--   MySQL 8.0
-    
-
-#### ⚙️ **Framework**
-
--   Spring Boot
-    
--   Spring Security
-    
-
-#### 📚 **Library**
-
--   JDBC 6
-    
--   Lombok
-    
--   SLF4J
-    
--   JSON
-    
--   SMTP
-    
--   highlight.js
-    
--   MIME
-    
--   React
-    
-
-#### 📡 **API**
-
--   Kakao Maps API
-    
--   공공데이터포털 사업자 인증 API
-    
-
-#### 🧰 **Tools**
-
--   Visual Studio Code (v1.82.2)
-    
--   IntelliJ IDEA
-    
--   Bootstrap 4
-    
--   StarUML
-    
-
-#### 🔧 **WAS (Web Application Server)**
-
--   Apache Tomcat 9.0.80
-    
-
-#### 🤝 **협업 도구**
-
--   KakaoTalk
-    
--   Google Sheets & Google Drive
-    
--   GitHub
