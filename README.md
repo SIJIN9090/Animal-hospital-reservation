@@ -13,8 +13,6 @@ ___
 - [✅ Implemented Features](#-implemented-features)  
 - [🧩 Development Environment](#-development-environment)  
 
-🧩 Development Environment
-
 ---
 
 ## 👥 Team Members<a name="팀-구성"></a>
