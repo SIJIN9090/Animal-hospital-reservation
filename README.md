@@ -238,7 +238,7 @@ React + Spring Boot
 | **🤝 협업 도구**                  | KakaoTalk, Google Sheets & Google Drive, GitHub |
 
 
-## 📄 Project PPT
+## 📄 Project PPT<a name="project-ppt"></a>
 [A프로젝트_PPT 링크](https://drive.google.com/file/d/1yw3f7mWX1gHfvlqjOidmfTI9spDRvI_0/view?usp=sharing)
 
 ----------
