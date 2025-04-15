@@ -4,6 +4,17 @@
 > **반려동물 입장에서 생각하는 밝고 친근한 동물 병원 웹사이트**
 ___
 
+
+
+📅 Project Duration
+2025.02.06 ~ 2025.03.06
+
+🛠️ Tech Stack
+React + Spring Boot
+
+---
+
+
 ## 📑 Table of Contents  
 - [👥 Team Members](#-team-members)  
 - [🐾 Overview](#-overview)  
@@ -13,7 +24,9 @@ ___
 - [✅ Implemented Features](#-implemented-features)  
 - [🧩 Development Environment](#-development-environment)  
 
+
 ---
+
 
 ## 👥 Team Members<a name="팀-구성"></a>
 
