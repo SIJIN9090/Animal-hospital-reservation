@@ -247,7 +247,7 @@ React + Spring Boot
 
 프로젝트가 [Vercel](https://vercel.com/)을 통해 배포되었습니다. 아래 링크에서 웹사이트를 직접 확인해보세요!
 
-🔗 [웹사이트 보기](https://reservation-front-opal.vercel.app/)
+🔗 [하이펫! 동물병원 웹사이트 보기](https://reservation-front-opal.vercel.app/)
 
 배포된 웹사이트에서 기능을 직접 체험해볼 수 있습니다. 추가적인 피드백이나 개선 사항은 언제든지 환영합니다! 😊
 
