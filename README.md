@@ -238,6 +238,8 @@ React + Spring Boot
 | **🤝 협업 도구**                  | KakaoTalk, Google Sheets & Google Drive, GitHub |
 
 
+## 📚 PDF Version
+[Download/View the PDF][(https://github.com/your-username/your-repository-name/raw/main/your-file.pdf)](https://drive.google.com/file/d/1yw3f7mWX1gHfvlqjOidmfTI9spDRvI_0/view?usp=sharing)
 ----------
 ## 성장을 위한 소중한 경험이었습니다.
 
