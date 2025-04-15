@@ -24,6 +24,7 @@ React + Spring Boot
 - [✅ Implemented Features](#-implemented-features)  
 - [🧩 Development Environment](#-development-environment)  
 - [📄 Project PPT](#project-ppt)
+- [🌐 배포 주소](#배포-주소)  
 
 ---
 
@@ -240,6 +241,15 @@ React + Spring Boot
 
 ## 📄 Project PPT<a name="project-ppt"></a>
 [A프로젝트_PPT 링크](https://drive.google.com/file/d/1yw3f7mWX1gHfvlqjOidmfTI9spDRvI_0/view?usp=sharing)
+
+
+## 🌐 배포 주소<a name="배포-주소"></a>
+
+프로젝트가 [Vercel](https://vercel.com/)을 통해 배포되었습니다. 아래 링크에서 웹사이트를 직접 확인해보세요!
+
+🔗 [웹사이트 보기](https://reservation-front-opal.vercel.app/)
+
+배포된 웹사이트에서 기능을 직접 체험해볼 수 있습니다. 추가적인 피드백이나 개선 사항은 언제든지 환영합니다! 😊
 
 ----------
 ## 성장을 위한 소중한 경험이었습니다.
