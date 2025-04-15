@@ -6,10 +6,10 @@ ___
 
 
 
-📅 Project Duration
+📅 Project Duration : 
 2025.02.06 ~ 2025.03.06
 
-🛠️ Tech Stack
+🛠️ Tech Stack : 
 React + Spring Boot
 
 ---
