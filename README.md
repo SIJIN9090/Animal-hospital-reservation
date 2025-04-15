@@ -1,3 +1,5 @@
+![이미지 설명](https://github.com/SIJIN9090/Animal-hospital-reservation/blob/master/%EC%BA%A1%EC%B2%98.PNG)
+
 
 # 🐾 HI ! Pet
 
