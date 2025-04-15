@@ -7,7 +7,6 @@ ___
 ## 📑 Table of Contents  
 - [👥 Team Members](#-team-members)  
 - [🐾 Overview](#-overview)  
-- [💡 About "HI ! Pet"](#-about-hi--pet)  
 - [🛠️ Key Design Points](#️-key-design-points)  
 - [📌 Frontend Features](#-frontend-features)  
 - [⚙️ Backend Features](#-backend-features)  
