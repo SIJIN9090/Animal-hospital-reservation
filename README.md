@@ -1,6 +1,8 @@
-![이미지](https://github.com/SIJIN9090/Animal-hospital-reservation/blob/master/%EC%BA%A1%EC%B2%983.PNG)
-![이미지](https://github.com/SIJIN9090/Animal-hospital-reservation/blob/master/%EC%BA%A1%EC%B2%982.PNG)
-![이미지](https://github.com/SIJIN9090/Animal-hospital-reservation/blob/master/%EC%BA%A1%EC%B2%98.PNG)
+![image3](https://github.com/SIJIN9090/Animal-hospital-reservation/blob/master/image3.PNG)
+![image1](https://github.com/SIJIN9090/Animal-hospital-reservation/blob/master/image1.PNG)
+![image2](https://github.com/SIJIN9090/Animal-hospital-reservation/blob/master/image2.PNG)
+
+
 
 
 # 🐾 HI ! Pet
