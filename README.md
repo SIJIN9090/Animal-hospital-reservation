@@ -4,21 +4,15 @@
 > **반려동물 입장에서 생각하는 밝고 친근한 동물 병원 웹사이트**
 ___
 
-
-📑 Table of Contents
-👥 Team Members
-
-🐾 Overview
-
-💡 About "HI ! Pet"
-
-🛠️ Key Design Points
-
-📌 Frontend Features
-
-⚙️ Backend Features
-
-✅ Implemented Features
+## 📑 Table of Contents  
+- [👥 Team Members](#-team-members)  
+- [🐾 Overview](#-overview)  
+- [💡 About "HI ! Pet"](#-about-hi--pet)  
+- [🛠️ Key Design Points](#️-key-design-points)  
+- [📌 Frontend Features](#-frontend-features)  
+- [⚙️ Backend Features](#-backend-features)  
+- [✅ Implemented Features](#-implemented-features)  
+- [🧩 Development Environment](#-development-environment)  
 
 🧩 Development Environment
 
