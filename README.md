@@ -1,6 +1,4 @@
 
-![Uploading screencapture-reservation-front-opal-vercel-app-2025-04-15-17_00_29.png…]()
-
 # 🐾 HI ! Pet
 
 > **반려동물 입장에서 생각하는 밝고 친근한 동물 병원 웹사이트**
