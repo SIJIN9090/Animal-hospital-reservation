@@ -23,7 +23,7 @@ React + Spring Boot
 - [⚙️ Backend Features](#-backend-features)  
 - [✅ Implemented Features](#-implemented-features)  
 - [🧩 Development Environment](#-development-environment)  
-
+- [📄 Project PPT](#project-ppt)
 
 ---
 
@@ -238,7 +238,7 @@ React + Spring Boot
 | **🤝 협업 도구**                  | KakaoTalk, Google Sheets & Google Drive, GitHub |
 
 
-## 📚 PDF Version
+## 📄 Project PPT
 [A프로젝트_PPT 링크](https://drive.google.com/file/d/1yw3f7mWX1gHfvlqjOidmfTI9spDRvI_0/view?usp=sharing)
 
 ----------
